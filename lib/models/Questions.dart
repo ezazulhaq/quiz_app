@@ -17,7 +17,7 @@ const List sample_data = [
   {
     "id": 2,
     "question": "When google release Flutter.",
-    "options": ['Jun 2017', 'Jun 2017', 'May 2017', 'May 2018'],
+    "options": ['Jun 2017', 'Jun 2018', 'May 2017', 'May 2018'],
     "answer_index": 2,
   },
   {
